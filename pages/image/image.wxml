@@ -1,0 +1,9 @@
+<image src='{{imagePath}}'></image>
+<button bindtap="handleImageChoose">自己选张图片</button>
+
+<view>{{nowTime}}</view>
+
+<view class="box {{isActive? 'active' : ''}}" 
+bindtap="handleTextChange">
+凯尔萨斯
+</view>

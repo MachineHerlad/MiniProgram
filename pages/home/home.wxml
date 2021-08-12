@@ -1,0 +1,8 @@
+<!--pages/home/home.wxml-->
+<text>pages/home/home.wxml</text>
+
+<view wx:for="{{students}}">{{item.name}}</view>
+
+<view>当前计数：{{counter}}</view>
+<button size="mini" bindtap="increment">+</button>
+<button size="mini" bindtap="decrement">-</button>

@@ -1,0 +1,11 @@
+<!--pages/about/about.wxml-->
+<text>pages/about/about.wxml</text>
+
+<button size="mini" 
+open-type="getUserInfo" 
+bindgetuserinfo="handleGetUserInfo">
+获取权限
+</button>
+
+<open-data type="userAvatarUrl"></open-data>
+<open-data type="userNickName"></open-data>

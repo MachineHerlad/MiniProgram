@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/image/image",
+    "pages/about/about",
+    "pages/home/home",
+    "pages/profile/profile",
+    "pages/category/category"
+  ],
+  "sitemapLocation": "sitemap.json",
+  "window": {
+    "navigationBarBackgroundColor": "#D4AF37",
+    "navigationBarTextStyle":"black",
+    "navigationBarTitleText":"谁的小程序？",
+    "backgroundColor": "#ff0000",
+    "enablePullDownRefresh":true
+  }
+}

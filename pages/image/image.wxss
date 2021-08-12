@@ -1,0 +1,8 @@
+/* pages/image/image.wxss */
+.box{
+  font-size: 64rpx;
+}
+
+.active {
+  color: blueviolet;
+}
